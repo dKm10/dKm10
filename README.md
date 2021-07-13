@@ -25,3 +25,7 @@
 ### 📜 Currently Learning 
 ![Docker](https://img.shields.io/static/v1?label&message=Docker&color=2496ED&logo=Docker&logoColor=white)
 ![Python](https://img.shields.io/static/v1?label&message=Python&color=3776AB&logo=Python&logoColor=white)
+
+<br><br>
+
+[![Deepak's GitHub stats](https://github-readme-stats-dkm10.vercel.app/api?username=dkm10&count_private=true)](https://github.com/dkm10/github-readme-stats)
