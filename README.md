@@ -28,4 +28,4 @@
 
 <br><br>
 
-[![Deepak's GitHub stats](https://github-readme-stats-dkm10.vercel.app/api?username=dkm10&count_private=true)](https://github.com/dkm10/github-readme-stats)
+[![Deepak's GitHub stats](https://github-readme-stats-dkm10.vercel.app/api?username=dkm10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
