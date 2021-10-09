@@ -25,6 +25,7 @@
 ### 📜 Currently Learning 
 ![Docker](https://img.shields.io/static/v1?label&message=Docker&color=2496ED&logo=Docker&logoColor=white)
 ![Python](https://img.shields.io/static/v1?label&message=Python&color=3776AB&logo=Python&logoColor=white)
+![Kubernetes](https://img.shields.io/static/v1?label&message=Kubernetes&color=326CE5&logo=kubernetes&logoColor=white)
 
 <br><br>
 
