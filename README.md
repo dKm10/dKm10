@@ -11,20 +11,21 @@
 ### 💻 Technologies and Tools
 ![Azure](https://img.shields.io/static/v1?label&message=Azure&color=0078D4&logo=MicrosoftAzure)
 ![Azure DevOps](https://img.shields.io/static/v1?label&message=Azure%20DevOps&color=0078D7&logo=AzureDevOps)
-![PowerShell](https://img.shields.io/static/v1?label&message=PowerShell&color=5391FE&logo=PowerShell&logoColor=black)
-![Python](https://img.shields.io/static/v1?label&message=Python&color=3776AB&logo=Python&logoColor=white)
 ![Terraform](https://img.shields.io/static/v1?label&message=Terraform&color=7B42BC&logo=Terraform)
-![VisualStudioCode](https://img.shields.io/static/v1?label&message=VSCode&color=007ACC&logo=VisualStudioCode)
+![Docker](https://img.shields.io/static/v1?label&message=Docker&color=2496ED&logo=Docker&logoColor=white)
+![Power BI](https://img.shields.io/static/v1?label&message=PowerBI&logo=PowerBI)
+![PowerShell](https://img.shields.io/static/v1?label&message=PowerShell&color=5391FE&logo=PowerShell&logoColor=black)
+![Python](https://img.shields.io/static/v1?label&message=Python&logo=Python)
+![Ansible](https://img.shields.io/static/v1?label&message=Ansible&color=EE0000&logo=Ansible)
 ![Git](https://img.shields.io/static/v1?label&message=Git&color=F05032&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/static/v1?label&message=GitHub&color=181717&logo=GitHub)
 ![Ubuntu](https://img.shields.io/static/v1?label&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=white)
-![Ansible](https://img.shields.io/static/v1?label&message=Ansible&color=EE0000&logo=Ansible)
+![VisualStudioCode](https://img.shields.io/static/v1?label&message=VSCode&color=007ACC&logo=VisualStudioCode)
 ![Vim](https://img.shields.io/static/v1?label&message=Vim&color=019733&logo=Vim)
 ![GNUBash](https://img.shields.io/static/v1?label&message=Bash&color=4EAA25&logo=GNUBash&logoColor=white)
 
 
 ### 📜 Currently Learning 
-![Docker](https://img.shields.io/static/v1?label&message=Docker&color=2496ED&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/static/v1?label&message=Kubernetes&color=326CE5&logo=kubernetes&logoColor=white)
 
 <br><br>
