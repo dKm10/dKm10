@@ -11,11 +11,11 @@
 ### 💻 Technologies and Tools
 ![Azure](https://img.shields.io/static/v1?label&message=Azure&color=0078D4&logo=MicrosoftAzure)
 ![Azure DevOps](https://img.shields.io/static/v1?label&message=Azure%20DevOps&color=0078D7&logo=AzureDevOps)
+![Kubernetes](https://img.shields.io/static/v1?label&message=Kubernetes&color=326CE5&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/static/v1?label&message=Terraform&color=7B42BC&logo=Terraform)
 ![Docker](https://img.shields.io/static/v1?label&message=Docker&color=2496ED&logo=Docker&logoColor=white)
 ![Power BI](https://img.shields.io/static/v1?label&message=PowerBI&logo=PowerBI)
 ![PowerShell](https://img.shields.io/static/v1?label&message=PowerShell&color=5391FE&logo=PowerShell&logoColor=black)
-![Python](https://img.shields.io/static/v1?label&message=Python&logo=Python)
 ![Ansible](https://img.shields.io/static/v1?label&message=Ansible&color=EE0000&logo=Ansible)
 ![Git](https://img.shields.io/static/v1?label&message=Git&color=F05032&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/static/v1?label&message=GitHub&color=181717&logo=GitHub)
@@ -26,7 +26,7 @@
 
 
 ### 📜 Currently Learning 
-![Kubernetes](https://img.shields.io/static/v1?label&message=Kubernetes&color=326CE5&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/static/v1?label&message=Python&logo=Python)
 
 <br><br>
 
